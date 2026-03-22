@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangupta1512&label=Profile%20views&color=0e75b6&style=flat" alt="pawangupta1512" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawangupta1512" alt="pawangupta1512" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development with MERN**
 
 - 📫 How to reach me **pg948162@gmail.com**
